@@ -16,7 +16,6 @@ A python project to learn the tkinter interface. Packed with a beautiful GUI you
 ### Get in Touch 🐇
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/jaadyn-humphries)&nbsp;
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/885387221870473226) 
-<h1>penis</h1>
 
 ### Skills
 [![My Skills](https://skillicons.dev/icons?i=python,vim,js,html,bash,css,linux)](https://skillicons.dev)
