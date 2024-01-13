@@ -4,6 +4,8 @@ Python enthusiast and red teamer
 
 Hobbies: Lifting, Coding, CTF's, Sleeping 💤
 
+Checkout the [blog](https://ryushe.github.io/)
+
 ### Projects
 Tman (python) 😺 - [Repo](https://github.com/Ryushe/Tman)
 
