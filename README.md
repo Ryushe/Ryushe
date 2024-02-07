@@ -1,4 +1,5 @@
-# Hi I'm Jaadyn - Actively persuing: CompTIA Security+
+# Hi I'm Jaadyn 
+- Actively persuing: CompTIA Security+
 
 Python enthusiast and red teamer
 
