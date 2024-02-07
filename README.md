@@ -1,4 +1,4 @@
-# Hi I'm Jaadyn
+# Hi I'm Jaadyn - Actively persuing: CompTIA Security+
 
 Python enthusiast and red teamer
 
@@ -20,7 +20,7 @@ A python project to learn the tkinter interface. Packed with a beautiful GUI you
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/885387221870473226) 
 
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=python,vim,js,html,bash,css,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,vim,js,html,bash,css,linux,github)](https://skillicons.dev)
 
 ### Currently Learning
 [![Learning](https://skillicons.dev/icons?i=rust)](https://skillicons.dev)
