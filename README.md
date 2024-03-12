@@ -25,3 +25,7 @@ A python project to learn the tkinter interface. Packed with a beautiful GUI you
 
 ### Currently Learning
 [![Learning](https://skillicons.dev/icons?i=rust)](https://skillicons.dev)
+
+### Links:
+[HTB profile](https://app.hackthebox.com/users/831456)
+[THM profile](https://tryhackme.com/p/Ryushe)
