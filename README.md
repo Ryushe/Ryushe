@@ -1,5 +1,4 @@
 # Hi I'm Jaadyn 
-- Actively persuing: CompTIA Security+
 
 Python enthusiast and red teamer
 
@@ -22,10 +21,14 @@ A python project to learn the tkinter interface. Packed with a beautiful GUI you
 
 
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=python,vim,js,html,bash,css,linux,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,vim,js,html,bash,css,linux,windows,github,bots)](https://skillicons.dev)
 
 ### Currently Learning
 [![Learning](https://skillicons.dev/icons?i=rust)](https://skillicons.dev)
+
+### Certifications
+* CompTIA Security+
+* Flation Cyber Security
 
 ### Hacking Profiles:
 [HTB profile](https://app.hackthebox.com/users/831456)
