@@ -21,7 +21,7 @@ A python project to learn the tkinter interface. Packed with a beautiful GUI you
 
 
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=python,vim,js,html,bash,css,linux,windows,github,bots)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,vim,js,html,bash,css,linux,windows,github,bots,nodejs,react)](https://skillicons.dev)
 
 ### Currently Learning
 [![Learning](https://skillicons.dev/icons?i=rust)](https://skillicons.dev)
