@@ -1,35 +1,47 @@
-# Hi I'm Jaadyn 
+<h1 align="center">Hi I'm Jaadyn </h1>
+<p align="center">
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,vim,js,html,bash,css,linux,windows,github,bots,nodejs,react,docker" />
+</a>
+</p>
+<!-- social icons -->
+<h3 align="center">
+<p>
+  <a href="https://linkedin.com/in/jaadyn-humphries">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn Icon">
+  </a>
+  
+  <a href="https://discord.com/users/885387221870473200">
+    <img src="https://skillicons.dev/icons?i=discord" alt="Discord Icon">
+  </a>
+  <a href="https://x.com/0xRyushe">
+    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter Icon">
+  </a>
+</p>
+</h3>
+<p align="center"> Python enthusiast and red teamer</p>
 
-Python enthusiast and red teamer
-
-Hobbies: Lifting, Coding, CTF's, Sleeping 💤
-
-Checkout the [blog](https://ryushe.github.io/)
-
-### Projects
-Tman (python) 😺 - [Repo](https://github.com/Ryushe/Tman)
-
-Tman is a special kind of discord bot. He was designed to remember your favorite recepies, list your recipe books (whole book/category), troll your friends and much much more.
-
-Image grabber (python) 📷 - [Repo](https://github.com/Ryushe/imageGrabber)
-
-A python project to learn the tkinter interface. Packed with a beautiful GUI your able to grab any list of images you want and display them. This project works really well if you want to quickly save images from the web to your computer.
-
-### Get in Touch 🐇
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/jaadyn-humphries)&nbsp;
-[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/885387221870473226) 
+<!-- stats -->
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryushe&layout=donut&theme=dracula" alt="my statistics">
+</div>
 
 
-### Skills
-[![My Skills](https://skillicons.dev/icons?i=python,vim,js,html,bash,css,linux,windows,github,bots,nodejs,react)](https://skillicons.dev)
+<p align="center">Hobbies: Lifting, Coding, CTF's, Sleeping 💤</p>
+<p align="center"><a href="https://ryushe.github.io/">Blogerino</a></p>
+</div>
 
-### Currently Learning
-[![Learning](https://skillicons.dev/icons?i=rust)](https://skillicons.dev)
+<!-- table item -->
+<div align="center" style="width: 100%;">
+  <a href="https://github.com/ryushe/Ryushe/blob/main/table.svg">
+    <img src="table.svg" style="width: 100%;" alt="Click to see the source">
+  </a>
+</div>
 
-### Certifications
-* CompTIA Security+
-* Flation Cyber Security
 
-### Hacking Profiles:
-[HTB profile](https://app.hackthebox.com/users/831456)
-[THM profile](https://tryhackme.com/p/Ryushe)
+
+
+
+
+
+Certifications: CompTIA Security+,  Flation Cyber Security
