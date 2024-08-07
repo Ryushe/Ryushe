@@ -1,2 +1,2 @@
-proj.json -> https://www.table-generator.de/generator
+proj_table.json -> https://www.table-generator.de/generator
 - import to edit
