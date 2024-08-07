@@ -1,0 +1,43 @@
+[
+  {
+    "columns": 3,
+    "rows": 3,
+    "border": true,
+    "uppercaseHeader": false,
+    "lineHeight": 1,
+    "lineHeightHeader": 2,
+    "textCenter": true,
+    "textCenterHeader": true,
+    "roundedCorners": true,
+    "tableColumnWidth": "table-fixed",
+    "fixedWidth": false,
+    "tableWidth": 9,
+    "fontSize": 3,
+    "boldHeader": false,
+    "boldBody": false,
+    "headerBackgroundColor": "#6b7280",
+    "headerTextColor": "#e5e7eb",
+    "bodyBackgroundColor": "#FFFFFF",
+    "bodyTextColor": "#6b7280"
+  },
+  [
+    "Project",
+    "Skills Used",
+    "Description",
+    ""
+  ],
+  [
+    "Tman",
+    "Python, API, OOP",
+    "A personal chef in the form of a discord bot. Allow tman to find, save, and organize your recipies. Along with some fun server commands. ",
+    "Mangamaker",
+    "Python, Metadata, File System",
+    "Free manga? Of course! Take zip archives and turn them into a properly formatted e-book ready for the kindle. (Yes, its in RTL)",
+    "Todo list",
+    "JS, MERN, Backend Server",
+    "Tired of boring todo lists? Ya, I was the opposite... I hated how cluttered normal lists are. So here it is!!!",
+    "",
+    "",
+    ""
+  ]
+]
