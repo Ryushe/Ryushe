@@ -23,11 +23,31 @@
 
 <br />
 
-<!-- ================= CONNECT ================= -->
+<!-- ================= About Me ================= -->
 
-<h3 align="center">Let's Connect!</h3>
+<h3 align="left">A Little About Me: </h3>
+
+
+<!-- ================= BLOG ================= -->
+
+<p align="center">
+  <a href="https://ryushe.github.io/">Check Out my Blog</a>
+</p>
+
+<!-- ================= TABLE ================= -->
 
 <div align="center">
+  <a href="https://github.com/ryushe/Ryushe/blob/main/table.svg">
+    <img src="table.svg" width="100%" alt="Table Graphic">
+  </a>
+</div>
+
+
+<!-- ================= CONNECT ================= -->
+
+<h3 align="left">Let's Connect!</h3>
+
+<div align="left">
 
 <a href="https://linkedin.com/in/jaadyn-humphries">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn">
@@ -41,36 +61,15 @@
 
 </div>
 
-<br />
-
-<!-- ================= BLOG ================= -->
-
-<p align="center">
-  <a href="https://ryushe.github.io/">Check Out my Blog</a>
-</p>
-
-<br />
-
-<!-- ================= TABLE ================= -->
-
-<div align="center">
-  <a href="https://github.com/ryushe/Ryushe/blob/main/table.svg">
-    <img src="table.svg" width="100%" alt="Table Graphic">
-  </a>
-</div>
-
-<br />
-
 <!-- ================= CERTIFICATIONS ================= -->
 
-<h3> My Current Certifications: </h3>
+<h3> Current Certifications: </h3>
 
 - **CompTIA Security+**
 - **TryHackMe – Offensive Pentesting**
 - **Flation Cyber Security**
 - **HackerRank – Python (Basic)**
 
-<!-- ================= OPTIONAL / COMMENTED ================= -->
 
 <!--
 ## Stats
