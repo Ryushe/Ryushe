@@ -21,17 +21,15 @@
 
 </div>
 
-<br />
 
-<!-- ================= About Me ================= -->
 
-<h3 align="left">A Little About Me: </h3>
-
+<h3>About Me</h3>
+<p>Hi! My name is Jaadyn Humphries, Online I go by the handle Ryushe. I love to code, cook, participate in CTFs such as Hack The Box and play soccer. Currently, I've been working on personal projects such as a home server and studying a bunch of red team techniques. I hope you enjoy your stay here.</p> 
 
 <!-- ================= BLOG ================= -->
 
-<p align="center">
-  <a href="https://ryushe.github.io/">Check Out my Blog</a>
+<p align="Left">If you have time check out my 
+  <a href="https://ryushe.github.io/">Blog</a>!
 </p>
 
 <!-- ================= TABLE ================= -->
@@ -65,10 +63,10 @@
 
 <h3> Current Certifications: </h3>
 
-- **CompTIA Security+**
-- **TryHackMe – Offensive Pentesting**
-- **Flation Cyber Security**
-- **HackerRank – Python (Basic)**
+- CompTIA Security+
+- TryHackMe – Offensive Pentesting
+- Flation Cyber Security
+- HackerRank – Python (Basic)
 
 
 <!--
