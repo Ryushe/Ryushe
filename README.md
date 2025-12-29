@@ -1,4 +1,4 @@
-<h1 align="center">Hi I'm Jaadyn </h1>
+<a href="https://github.com/ryushe/Ryushe/blob/main/src/header.png">
 <p align="center">
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,vim,js,html,bash,css,linux,windows,github,bots,nodejs,react,docker" />
@@ -22,9 +22,9 @@
 <p align="center"> Python enthusiast and red teamer</p>
 
 <!-- stats -->
-<div align="center">
+<!-- <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryushe&layout=donut&theme=dracula" alt="my statistics">
-</div>
+</div> -->
 
 
 <p align="center">Hobbies: Lifting, Coding, CTF's, Sleeping 💤</p>
